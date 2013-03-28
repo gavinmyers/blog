@@ -1,4 +1,4 @@
 {
-    title: "Gavin's Blog",
-    setting_1: "Some Setting"
+    description: "Gavin's Blog",
+    url: "http://unstable.gavinm.com"
 }
