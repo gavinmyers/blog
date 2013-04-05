@@ -13,3 +13,7 @@
 h1 { color: #FF7C78; padding-bottom:3px; padding-top:2px}
 
 body {background-color:#333;}
+
+* {
+  color:#dedede;
+}
